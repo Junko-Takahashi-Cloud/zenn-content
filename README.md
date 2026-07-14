@@ -34,10 +34,9 @@ Markdown で記事を管理し、GitHub によるバージョン管理を行い�
 
 ## 🔗 関連リンク
 
-* Zenn：（公開後に追記）
-* Qiita：（公開後に追記）
-* note：（公開後に追記）
-* LinkedIn：（プロフィールURLを追記）
+* Zenn：https://zenn.dev/junko_jp
+* Qiita：https://qiita.com/Junko-Takahashi-Cloud
+* note：https://note.com/junko_ai
+* LinkedIn：https://www.linkedin.com/in/純子-髙橋-45683041a
 
----
 ※記事は継続的に追加・更新しています。
