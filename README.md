@@ -39,4 +39,5 @@ Markdown で記事を管理し、GitHub によるバージョン管理を行い�
 * note：https://note.com/junko_ai
 * LinkedIn：https://www.linkedin.com/in/純子-髙橋-45683041a
 
+---
 ※記事は継続的に追加・更新しています。
