@@ -15,7 +15,7 @@ Markdown で記事を管理し、GitHub によるバージョン管理を行い�
 
 ```
 /
-├── zenn/       # Zenn投稿記事（Markdown）
+├── articles/   # Zenn投稿記事（Markdown）
 ├── qiita/      # Qiita投稿記事（Markdown）
 ├── note/       # note投稿記事（元Word、Markdown化して管理）
 └── linkedin/   # LinkedIn投稿文（元Word、Markdown化して管理）
