@@ -3,6 +3,7 @@ title: "長年温めてきた構想を、Web開発プロジェクトとして形
 emoji: "🎳"
 type: "article"
 topics: ["web開発", "ポートフォリオ", "ボウリング"]
+category: "idea"
 published: true
 ---
 私は現在、フリーランス・フルリモートでの開発案件獲得を目標に、GitHubでポートフォリオを公開しながらWeb開発を進めています。
