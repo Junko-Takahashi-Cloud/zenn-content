@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾② いきなり作ら�
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 ## 複数のAIに同じ質問を投げる
