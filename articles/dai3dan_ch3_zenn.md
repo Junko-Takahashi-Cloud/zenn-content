@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾③ 第三弾は「店�
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 ## 4AIの意見を整理すると、段階が見えてきた
