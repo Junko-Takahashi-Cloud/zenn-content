@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾④ 全部作らない�
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 機能を一度に全部作らないため、第三弾は段階に分けることにしました。
