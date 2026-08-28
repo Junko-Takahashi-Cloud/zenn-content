@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾⑤ AIに全部任せる
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 4AI会議と、Claudeとの二人三脚は役割が違います。4AI会議はテーマや論点を広く洗い出すためのもの。その結果を材料に、Claudeと壁打ちしながら、画面、業務フロー、データ、Phaseを具体的な設計へ落としていきました。
