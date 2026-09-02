@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾⑥⑦⑧"
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 ## 「店舗を回す」をシステムにすると何が必要なのか
