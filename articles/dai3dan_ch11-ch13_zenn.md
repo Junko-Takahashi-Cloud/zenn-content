@@ -3,8 +3,10 @@ title: "スポーツボウリング場構想・第三弾⑪⑫⑬ あれ？第�
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
+
+![](/images/dai3dan_ch11-ch13.jpg)
 
 実装が進むなかで、第三弾の目的と、できあがりつつあるものの関係をあらためて見直す必要が出てきました。
 
