@@ -3,7 +3,7 @@ title: "スポーツボウリング場構想・第三弾⑯ 第三弾を作っ�
 emoji: "🎳"
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["個人開発", "AI活用", "キャリアチェンジ", "生成AI"]
-published: false
+published: true
 ---
 
 第三弾では、予約だけでなく、スタッフ、レーン、来店、チェックイン／チェックアウト、教室、決済という、実際の業務の流れを意識して考えることになりました。単純なCRUDではなく、「業務の流れをどうシステムにするか」を考える経験でした。
@@ -18,4 +18,7 @@ AIとの協働のしかたも変わりました。複数のAIに意見を聞き�
 
 ---
 
-スポーツボウリング場構想・第三弾開発記録は、まだ続きます。🎳
+スポーツボウリング場構想・第三弾は、ここで一区切りです。
+次の段階へ進みます。🎳
+
+📝 業務のご相談・お問い合わせ → [ホームページ](https://junko-takahashi-cloud.github.io/personal-site/?utm_source=zenn&utm_medium=article&utm_campaign=daisandan16) / [ココナラ](https://coconala.com/users/6008491?utm_source=zenn&utm_medium=article&utm_campaign=daisandan16)
