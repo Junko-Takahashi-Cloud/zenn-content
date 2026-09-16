@@ -260,6 +260,5 @@ AIに質問される。
 
 そして、第五弾へ。
 
-📝 業務のご相談・お問い合わせはこちらから
-ホームページ: https://junko-takahashi-cloud.github.io/personal-site/?utm_source=linkedin&utm_medium=article&utm_campaign=daiyondan
-ココナラ: https://coconala.com/users/6008491?utm_source=linkedin&utm_medium=article&utm_campaign=daiyondan
+📝 業務自動化にご興味があれば、1ファイルから試せる「お試し版(3,000円)」からどうぞ。
+ココナラ(お試し版・3,000円): https://coconala.com/services/4404200?utm_source=linkedin&utm_medium=article&utm_campaign=link-update0916
