@@ -3,8 +3,10 @@ title: "未確定のオートスコアラーに依存せず、投球データ分
 emoji: "🎳"
 type: "tech"
 topics: ["Python", "FastAPI", "SQLite", "生成AI", "個人開発"]
-published: false
+published: true
 ---
+
+![](/images/fifth-bowling-system.jpg)
 
 # はじめに
 
