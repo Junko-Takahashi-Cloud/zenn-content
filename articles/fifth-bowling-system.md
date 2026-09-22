@@ -389,3 +389,6 @@ Claudeからも、
 そして、この第三弾拡張機能の開発を通して、また新しい発見がありました。
 
 **スポーツボウリング場構想は、まだ続きます。🎳**
+
+📝 業務自動化にご興味があれば、まずは1ファイルからお試しいただける「お試し版(3,000円)」からどうぞ。
+[ココナラ(お試し版・3,000円)はこちら](https://coconala.com/services/4404200?utm_source=zenn&utm_medium=article&utm_campaign=fifth-bowling)
