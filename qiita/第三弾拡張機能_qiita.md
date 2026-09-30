@@ -190,3 +190,15 @@ AIの利用制限も、実際の開発手順に影響する。
 **前に進んだからこそ見えたつながりを、後から埋めていく作業だった。**
 
 第三弾拡張機能は、機能を追加した記録であると同時に、ここまで作ってきた「スポーツボウリング場構想」が、少しずつ一つのシステムとしてつながっていく過程の記録でもある。
+
+なお、ここで「今後の候補」として残した店舗側のメンテナンス管理は、その後、実際に形にした。その記録は、次の記事で。
+
+スポーツボウリング場構想・第三弾開発記録は、まだ続きます。🎳
+
+---
+
+**🏠 ホームページ(ポートフォリオ・開発記録・ご相談窓口)**
+[https://junko-takahashi-cloud.github.io/personal-site/?utm_source=qiita&utm_medium=article&utm_campaign=daisan-kakuchou](https://junko-takahashi-cloud.github.io/personal-site/?utm_source=qiita&utm_medium=article&utm_campaign=daisan-kakuchou)
+
+**🐍 ココナラ(Python業務自動化シリーズ)**
+[https://coconala.com/users/6008491](https://coconala.com/users/6008491)
