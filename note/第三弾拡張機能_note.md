@@ -255,3 +255,17 @@ AIに実装してもらうとしても、プロジェクト全体を把握して
 第三弾拡張機能は、ここで一区切り。
 
 まだ店舗側のメンテナンス管理という宿題は残っているけれど、それも含めて今回の開発記録として残しておきたい。
+
+……と思っていたら、その宿題も、その後ちゃんと形にした。
+
+その記録は、また次の記事で書こうと思う。
+
+スポーツボウリング場構想・第三弾開発記録は、まだ続きます。🎳
+
+---
+
+**🏠 ホームページ(ポートフォリオ・開発記録・ご相談窓口)**
+[https://junko-takahashi-cloud.github.io/personal-site/?utm_source=note&utm_medium=article&utm_campaign=daisan-kakuchou](https://junko-takahashi-cloud.github.io/personal-site/?utm_source=note&utm_medium=article&utm_campaign=daisan-kakuchou)
+
+**🐍 ココナラ(Python業務自動化シリーズ)**
+[https://coconala.com/users/6008491](https://coconala.com/users/6008491)

@@ -96,3 +96,15 @@
 第三弾拡張機能は、ここで一区切り。
 
 **一度先へ進んだからこそ見えた「つなぎ目」を埋める作業でした。**
+
+なお、ここで「今後の候補」として残した店舗側のメンテナンス管理は、その後、実際に形にしました。その記録は、次の記事で書こうと思います。
+
+スポーツボウリング場構想・第三弾開発記録は、まだ続きます。🎳
+
+---
+
+**🏠 ホームページ(ポートフォリオ・開発記録・ご相談窓口)**
+[https://junko-takahashi-cloud.github.io/personal-site/?utm_source=linkedin&utm_medium=article&utm_campaign=daisan-kakuchou](https://junko-takahashi-cloud.github.io/personal-site/?utm_source=linkedin&utm_medium=article&utm_campaign=daisan-kakuchou)
+
+**🐍 ココナラ(Python業務自動化シリーズ)**
+[https://coconala.com/users/6008491](https://coconala.com/users/6008491)
