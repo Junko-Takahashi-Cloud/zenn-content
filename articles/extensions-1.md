@@ -3,8 +3,11 @@ title: "未経験スタックだけで作る店舗メンテナンス管理シス
 emoji: "🔧"
 type: "tech"
 topics: ["fastapi", "docker", "aws", "postgresql", "個人開発"]
-published: false
+published: true
+image: "https://raw.githubusercontent.com/Junko-Takahashi-Cloud/zenn-content/main/images/zenn_ogp_maintenance.jpg"
 ---
+
+![](/images/zenn_ogp_maintenance.jpg)
 
 ## この記事でわかること
 
@@ -105,3 +108,6 @@ rental_itemsの削除は物理削除ではなく論理削除(statusを「廃棄�
 Docker・AWSともに未経験からのスタートでしたが、EC2への本番デプロイ、そして既存システムとの双方向API連携まで実機で確認できました。特に「エラー→原因→解決」を都度言語化したことで、次に似た問題に当たったときの対応速度が上がると感じています。
 
 スポーツボウリング場構想・拡張①の開発記録は、これで一区切りです。🎳
+
+[ホームページ](https://junko-takahashi-cloud.github.io/personal-site/?utm_source=zenn&utm_medium=article&utm_campaign=kakuchou1-backend)
+[ココナラ(お試し版)](https://coconala.com/services/4404200)
