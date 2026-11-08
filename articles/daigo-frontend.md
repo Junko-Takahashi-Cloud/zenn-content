@@ -3,9 +3,9 @@ title: "【React+Recharts】データ可視化のために1プロジェクトだ
 emoji: "📊"
 type: "tech"
 topics: ["react", "recharts", "fastapi", "python", "個人開発"]
-published: false
+published: true
 ---
-
+![](/images/daigo-frontend)
 ## この記事でわかること
 
 - Streamlit統一ではなく、あえて1プロジェクトだけReactを採用した判断基準
